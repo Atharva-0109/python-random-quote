@@ -9,5 +9,5 @@ def main():
   print(quotes)
   
   
-if __name__== "__main__":
+if__name__== "__main__":
    main() 
